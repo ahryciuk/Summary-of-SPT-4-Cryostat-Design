@@ -1,5 +1,13 @@
 # Summary-of-SPT-4-Cryostat-Design
 
+## My Engineering Analyses:
+- [Modal analysis of support structures](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)
+- [Thermal gradient analysis](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat)
+- [Thermal budgeting for selection of cryogenics](https://github.com/ahryciuk/Thermal-Budgeting-of-SPT-4-Cryostat)
+- [Vacuum window modeling and prototyping](https://github.com/ahryciuk/SPT-4-Vacuum-Window-Prototype)
+
+## Summary:
+
 The SPT-4 (SPT-3G+) Cryostat is a 100 milliKelvin millimeter-wave receiver to be deployed in the Austral summer of 2028-2029. The focal plane is made up of ~34,000 microwave kinetic inductance detectors (MKIDs). I led the integrated design of this instrument, performed engineering analyses to verify design choices, and built a prototype of the vacuum window subassembly. The resultant design is the main subject of my thesis. Below are some summary figures and links to my various analyses.
 
 SPT-4 Cryostat (quarter cutaway):
@@ -22,10 +30,3 @@ Annotated half-cutaway:
   <img src="final_CAD_renders./SPT4_cutaway_annotated.PNG" width="600">
 </p>
 
-
-
-## My Engineering Analyses:
-- [Modal analysis of support structures](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)
-- [Thermal gradient analysis](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat)
-- [Thermal budgeting for selection of cryogenics](https://github.com/ahryciuk/Thermal-Budgeting-of-SPT-4-Cryostat)
-- [Vacuum window modeling and prototyping](https://github.com/ahryciuk/SPT-4-Vacuum-Window-Prototype)
