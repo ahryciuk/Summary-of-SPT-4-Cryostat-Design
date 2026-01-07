@@ -1,5 +1,4 @@
 # Summary-of-SPT-4-Cryostat-Design
-Summary renders and pointing towards individual analyses repositories
 
 The SPT-4 (SPT-3G+) Cryostat is a 100 milliKelvin millimeter-wave receiver to be deployed in the Austral summer of 2028-2029. The focal plane is made up of ~34,000 microwave kinetic inductance detectors (MKIDs). I led the integrated design of this instrument, performed engineering analyses to verify design choices, and built a prototype of the vacuum window subassembly. The resultant design is the main subject of my thesis. Below are some summary figures and links to my various analyses.
 
