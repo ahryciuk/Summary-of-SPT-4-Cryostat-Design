@@ -15,7 +15,7 @@ SPT-4 Cryostat (quarter cutaway):
   <img src="final_CAD_renders./SemiTransparentWindow_SPT4ProposalFigure.JPG" width="600">
 </p>
 
-There are seven individual optics tubes with bandpasses centered at 220 GHz, 280 GHz, and 345 GHz. The tubes are mounted to the 4 Kelvin subassembly so the silicon lenses are cold. 
+There are seven individual optics tubes with bandpasses centered at 220 GHz, 280 GHz, and 345 GHz. The tubes are mounted to the 4 Kelvin subassembly so the silicon lenses are cold. I developed custom torsional-spring mounts to provide precision alignment of the lenses and to counteract their cracking due to thermal stress.
 <p align="center">
   <img src="final_CAD_renders./SPT4_optics_tube_cutaway.PNG" width="600">
 </p>
