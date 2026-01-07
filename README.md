@@ -1,6 +1,7 @@
 # Summary-of-SPT-4-Cryostat-Design
 
 ## My Engineering Analyses:
+- [Optics tube design](https://github.com/ahryciuk/SPT-4-Optics-Tube-Design/tree/main)
 - [Modal analysis of support structures](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)
 - [Thermal gradient analysis](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat)
 - [Thermal budgeting for selection of cryogenics](https://github.com/ahryciuk/Thermal-Budgeting-of-SPT-4-Cryostat)
