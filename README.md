@@ -26,7 +26,7 @@ Annotated half-cutaway:
 
 
 ## My Engineering Analyses:
-- [Modal analysis of support structures]()
-- [Thermal gradient analysis]()
-- [Thermal budgeting for selection of cryogenics]()
-- [Vacuum window modeling and prototyping]()
+- [Modal analysis of support structures](https://github.com/ahryciuk/Modal-Analysis-of-SPT-4-Cryostat-Support-Structures)
+- [Thermal gradient analysis](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat)
+- [Thermal budgeting for selection of cryogenics](https://github.com/ahryciuk/Thermal-Budgeting-of-SPT-4-Cryostat)
+- [Vacuum window modeling and prototyping](https://github.com/ahryciuk/SPT-4-Vacuum-Window-Prototype)
