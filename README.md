@@ -10,7 +10,13 @@
 
 ## Overview of Instrument:
 
-The SPT-4 (SPT-3G+) Cryostat is a 100 milliKelvin millimeter-wave receiver to be deployed in the Austral summer of 2028-2029. The focal plane is made up of ~34,000 microwave kinetic inductance detectors (MKIDs). I led the integrated design of this instrument, performed engineering analyses to verify design choices, and built a prototype of the vacuum window subassembly. The resultant design is the main subject of my thesis. Below are some summary figures and links to my various analyses.
+The South Pole Telescope is a 10-meter diameter gregorian design millimeter-wave telescope with numerable scientific motivations within cosmology and astrophyiscs, primarily the study of the Cosmic Microwave Background Radiation (CMB) anisotropies.
+
+<p align="center">
+  <img src="final_CAD_renders./SPT_annotated.PNG" width="600">
+</p>
+
+The SPT-4 (SPT-3G+) Cryostat is a 100 milliKelvin millimeter-wave receiver to be deployed in the Austral summer of 2028-2029, after the tenure of the current SPT-3G receiver. The focal plane is made up of ~34,000 microwave kinetic inductance detectors (MKIDs). I led the integrated design of this instrument, performed engineering analyses to verify design choices, and built a prototype of the vacuum window subassembly. The resultant design is the main subject of my thesis. Below are some figures of some of the important subassemblies. Links to my various engineering analyses are at the top of this page.
 
 SPT-4 Cryostat (quarter cutaway):
 <p align="center">
@@ -22,12 +28,12 @@ There are seven individual optics tubes with bandpasses centered at 220 GHz, 280
   <img src="final_CAD_renders./SPT4_optics_tube_cutaway.PNG" width="600">
 </p>
 
-The sensitive cryogenic environment is maintained by a Bluefors SD250 Dilution refrigerator and a Cryomech PT420 Pulse Tube cryo-cooler. The internals of the cryostat are contained within a set of three nested cylinders heat sunk to progressively lower temperatures (300 Kelvin, 50 Kelvin, and 4 Kelvin). This nested design dramatically limits the radiative heat transfer to the focal plane, allowing the dilution refrigerator to maintain the 100 milliKelvin temperature for the MKID detectors. 
+The sensitive cryogenic environment is maintained by a Bluefors SD250 Dilution refrigerator and a Cryomech PT420 Pulse Tube cryo-cooler. The internals of the cryostat are contained within a set of three nested cylinders heat sunk to progressively lower temperatures (300 Kelvin, 50 Kelvin, and 4 Kelvin). This nested design dramatically limits the radiative heat transfer to the focal plane, allowing the dilution refrigerator to maintain the 100 milliKelvin temperature for the MKID detectors. Care had to be taken in the design of the insulating support structures between these temperature stages to not couple drive frequencies from the telescope observing to the focal plane.
 <p align="center">
   <img src="final_CAD_renders./SPT4_exploded_view.PNG" width="600">
 </p>
 
-Annotated half-cutaway:
+An annotated half-cutaway is shown below with the light ray traces overlaid on the central optics tube.
 <p align="center">
   <img src="final_CAD_renders./SPT4_cutaway_annotated.PNG" width="600">
 </p>
