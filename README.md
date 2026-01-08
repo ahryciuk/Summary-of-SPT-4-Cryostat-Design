@@ -38,3 +38,6 @@ An annotated half-cutaway is shown below with the light ray traces overlaid on t
   <img src="final_CAD_renders./SPT4_cutaway_annotated.PNG" width="600">
 </p>
 
+## Bibliography:
+All figures from
+- Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
