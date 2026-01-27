@@ -1,7 +1,7 @@
 # Summary-of-SPT-4-Cryostat-Design
 
 ## My Engineering Analyses:
-- [My Thesis](https://knowledge.uchicago.edu/record/15844)
+- [Ph.D. Thesis](https://knowledge.uchicago.edu/record/15844)
 - [Optics tube design](https://github.com/ahryciuk/SPT-4-Optics-Tube-Design/tree/main)
 - [Vacuum window modeling and prototyping](https://github.com/ahryciuk/SPT-4-Vacuum-Window-Prototype)
 - [Thermal gradient analysis](https://github.com/ahryciuk/Thermal-Gradient-Analysis-of-SPT-4-Cryostat)
